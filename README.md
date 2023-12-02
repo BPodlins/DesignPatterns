@@ -9,5 +9,5 @@ Design patter is something that describes certain, reoccurring problem in specif
 1. *Name of the design*
 2. *Description of the problem*
 3. *Solution*
-4. *Consequences*
+4. *Consequences* 
  
