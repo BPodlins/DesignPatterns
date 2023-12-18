@@ -10,4 +10,7 @@ Design patter is something that describes certain, reoccurring problem in specif
 2. *Description of the problem*, it says when the pattern should be used. It explains the obstacles and context of it.
 3. *Solution*, it is a description of elements in the project and how they communicate with each other. It is like a blueprint.
 4. *Consequences*, those are effects, costs and gains form using specific design pattern.
+
+
+<sub>This repo is created from "Design Patterns" by Erich Gamma & refactoring.guru</sub>
  
