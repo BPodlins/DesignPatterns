@@ -4,7 +4,7 @@ import org.example.CreationalDesignPatterns.AbstractFactory.factories.GUIFactory
 import org.example.CreationalDesignPatterns.AbstractFactory.products.buttons.Button;
 import org.example.CreationalDesignPatterns.AbstractFactory.products.checkboxes.Checkbox;
 
-// App pick the factory type and creates it in runtime, depending on configuration and runtime
+// App picks the factory type and creates it in runtime, depending on configuration and runtime
 
 public class Application {
     private Button button;
